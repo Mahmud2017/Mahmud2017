@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahmud2017
+- 👋 Hi, I’m Md Mahmud Hossain
 - 👀 I’m interested in developing software
 - ✨ I’m specialized in C# and JavaScript
 - 🌱 I’m currently learning React Native
